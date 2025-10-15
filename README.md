@@ -12,7 +12,7 @@ Room: K4
 | Date       | Topic                          | Homework Assignment | Homework Deadline[^1] | Lecturer |
 |------------|--------------------------------|---------------------|------------------|----------|
 | 29.09.2025 | introduction                   | [click](https://github.com/ondratybl/python-for-data-science/blob/main/assignment1.ipynb)              | 15.10.2025           | Filip   |
-| 13.10.2025 | numpy                          | [TODO]             | 20.10.2025           | Filip   |
+| 13.10.2025 | numpy                          | [click](https://github.com/ondratybl/python-for-data-science/blob/main/assignment2.ipynb)             | 20.10.2025           | Filip   |
 | 27.10.2025 | pandas                         | [TODO]              | 03.11.2025           | Ondřej   |
 | 10.11.2025 | sql                            | [TODO]              | 17.11.2025           | Ondřej   |
 | 24.11.2025 | matplotlib                     | [TODO]              | 01.12.2025           | Ondřej   |
@@ -30,11 +30,21 @@ Room: K4
 
 Several homework assignments will be given. You are required to submit a solution for each assignment by the respective deadline. Your code will be evaluated based on readability, efficiency, correctness, and whether it runs successfully.
 
-After each deadline, we check your GitHub repositories and evaluate your solutions as `passed`, `revision` or `failed`. You need all the solutions to be marked as `passed` by `the end of January 2026` to obtain the course credits. If marked as `revision`, you can resubmit your improved solution to obtain `passed` (no submissions after `the end of January 2026`).
+After each deadline, we check your GitHub repositories and evaluate your solutions as `passed`, `revision` or `failed`. You need all the solutions to be marked as `passed` by `the end of January 2026` to obtain the course credits. If marked as `revision`, you can resubmit your improved solution to obtain `passed` (no submissions after `the end of January 2026`). Your results (under your UKČO) can be found [here](https://github.com/ondratybl/python-for-data-science/blob/main/HW_results.md).
 
 ## Use of Large Language Models
 
-[TODO]
+Large Language Models (LLMs) such as ChatGPT, DeepSeek, or other AI assistants can be powerful tools to support your learning and coding. We do not prohibit their use, but we expect you to use them wisely and responsibly. Please follow these guidelines:
+
+- **Understand Before Using:** Always make sure you understand the answer or code snippet provided by an LLM. Do not copy-paste blindly; LLMs may produce errors or code that is not optimized.
+
+- **Use as a Learning Aid, Not a Shortcut:** LLMs are helpful for explanations, examples, and clarifications. Try to solve exercises yourself first; then, if needed, consult an LLM for hints or guidance.
+
+- **Verify and Test Everything:** Always verify the correctness of code or explanations given by an LLM. Run code locally and check outputs. Make sure it matches the theory and your understanding.
+
+- **Develop Critical Thinking:** Use LLM outputs as a starting point, not a final answer. Compare multiple sources and reasoning to strengthen your understanding.
+
+- **Privacy and Safety:** Avoid sharing sensitive personal data or credentials with LLMs.
 
 ## Setting up everything
 
